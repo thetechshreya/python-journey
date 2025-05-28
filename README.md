@@ -22,3 +22,17 @@ This repository contains my beginner Python projects and daily practice as I lea
 ### Follow My Journey
 
 Stay tuned as I add more projects week by week!
+
+## 🚀 Restart Update (May 2025)
+
+Hi again! After taking a short break, I’ve restarted my Python learning journey with fresh motivation.
+
+### ✅ New Script Added:
+- **simple_calculator.py** – A basic calculator that handles +, -, *, and / operations.
+
+### What I’m Doing Now:
+- Reviewing Python basics
+- Practicing daily in VS Code
+- Updating my GitHub weekly with progress
+
+Let’s go! ✨
